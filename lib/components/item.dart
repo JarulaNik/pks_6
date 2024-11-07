@@ -25,13 +25,17 @@ class ItemNote extends StatelessWidget {
           children: [
             ClipRRect(
               borderRadius: const BorderRadius.vertical(top: Radius.circular(16.0)),
-              child: Image.network(
-                bearing.imageUrl,
-                height: 120,
-                width: double.infinity,
-                fit: BoxFit.cover,
+              child: Container(
+                color: Colors.white,
+                child: Image.network(
+                  bearing.imageUrl,
+                  height: 120,
+                  width: double.infinity,
+                  fit: BoxFit.contain,
+                ),
               ),
             ),
+
             Padding(
               padding: const EdgeInsets.all(8.0),
               child: Text(
@@ -48,7 +52,7 @@ class ItemNote extends StatelessWidget {
             ),
             OutlinedButton(
               style: OutlinedButton.styleFrom(
-                  backgroundColor: Colors.blueAccent,
+                  backgroundColor: Colors.green,
                   side: const BorderSide(color: Colors.white12, width: 2)
               ),
               onPressed: () {
@@ -59,7 +63,7 @@ class ItemNote extends StatelessWidget {
                   ),
                 );
               },
-              child: const Text('Подробнее', style: TextStyle(fontSize: 12, color: Colors.white),),
+              child: const Text('Подробнее', style: TextStyle(fontSize: 12, color: Colors.black),),
             ),
           ],
         ),
