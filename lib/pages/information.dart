@@ -10,11 +10,8 @@ class CatalogPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text(
-          bearing.title,
-          style: const TextStyle(fontSize: 22, fontWeight: FontWeight.bold ),
-        ),
-        backgroundColor: Color(0xFF08954C),
+        title: Text(bearing.title, style: const TextStyle(fontSize: 22)),
+        backgroundColor: Colors.blueGrey,
       ),
       body: SingleChildScrollView(
         child: Column(
@@ -38,7 +35,7 @@ class CatalogPage extends StatelessWidget {
                 bearing.description,
                 style: const TextStyle(
                   fontSize: 18.0,
-                  color: Colors.black,
+                  color: Colors.black87,
                 ),
                 textAlign: TextAlign.left,
               ),
@@ -51,7 +48,7 @@ class CatalogPage extends StatelessWidget {
                 style: const TextStyle(
                   fontSize: 24.0,
                   fontWeight: FontWeight.bold,
-                  color: Color(0xFF08954C), // Зелёный цвет для заголовков
+                  color: Colors.blueGrey,
                 ),
               ),
             ),
@@ -63,7 +60,7 @@ class CatalogPage extends StatelessWidget {
                 style: const TextStyle(
                   fontSize: 20.0,
                   fontWeight: FontWeight.w500,
-                  color: const Color(0xFF000000), // Зелёный цвет для акцентов
+                  color: Colors.blueGrey,
                 ),
               ),
             ),
@@ -75,7 +72,7 @@ class CatalogPage extends StatelessWidget {
                 style: TextStyle(
                   fontSize: 22.0,
                   fontWeight: FontWeight.bold,
-                  color: Color(0xFF08954C), // Зелёный цвет для заголовков
+                  color: Colors.blueGrey,
                 ),
               ),
             ),
@@ -87,7 +84,7 @@ class CatalogPage extends StatelessWidget {
                     '• Радиальный зазор: 200мк\n'
                     '• Тип стали: ШХ15\n'
                     '• Индустрия: тяжёлая промышленность',
-                style: TextStyle(fontSize: 16.0, color: Colors.black54), // Основной текст чёрный
+                style: TextStyle(fontSize: 16.0, color: Colors.black54),
               ),
             ),
           ],
