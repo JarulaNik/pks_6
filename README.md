@@ -1,3 +1,7 @@
-## Работа по ПКС №4 Жидков Ярослав Николаевич ЭФБО-05-22
-![image](https://github.com/user-attachments/assets/8fefcaf2-6bd6-4779-81c8-35d13b7e83ba)
-![image](https://github.com/user-attachments/assets/2e596be1-ebfa-4576-bd3d-5de80c0462fc)
+## Работа по ПКС №5 Жидков Ярослав Николаевич ЭФБО-05-22
+![image](https://github.com/user-attachments/assets/e4beaec9-bf29-4452-aead-2306f354627d)
+![image](https://github.com/user-attachments/assets/40017fff-d43a-4337-ac37-623ff9bf1b0e)
+![image](https://github.com/user-attachments/assets/8e5820e2-8d83-42cb-8c9a-23c13e32e680)
+![image](https://github.com/user-attachments/assets/fcf3472d-5d78-4b19-9b4d-92952dcf6110)
+
+
