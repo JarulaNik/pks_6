@@ -1,16 +1,3 @@
-# pks_3
-
-PKS_3 homework project
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Работа по ПКС №4 Жидков Ярослав Николаевич ЭФБО-05-22
+![image](https://github.com/user-attachments/assets/8fefcaf2-6bd6-4779-81c8-35d13b7e83ba)
+![image](https://github.com/user-attachments/assets/2e596be1-ebfa-4576-bd3d-5de80c0462fc)
